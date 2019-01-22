@@ -1,5 +1,6 @@
 name: dog-project
 channels:
+- https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 - damianavila82
 - defaults
 dependencies:
